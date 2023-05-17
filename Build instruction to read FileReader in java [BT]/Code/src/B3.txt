@@ -1,0 +1,1 @@
+Lớp FileReader Không thực thi bất kì interface nào trong Java

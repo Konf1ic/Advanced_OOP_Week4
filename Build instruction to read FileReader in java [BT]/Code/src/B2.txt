@@ -1,0 +1,1 @@
+Lớp FileReader không được kế thừa từ bất kì lớp nào

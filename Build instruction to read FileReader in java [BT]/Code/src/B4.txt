@@ -1,0 +1,1 @@
+Lớp FileReader trong Java được sử dụng để đọc các ký tự từ tệp (file) trong hệ thống tệp (file system). Giúp cho việc đọc và xử lý dữ liệu từ tệp trong Java trở nên dễ dàng hơn.

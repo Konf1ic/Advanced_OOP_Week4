@@ -1,0 +1,19 @@
+FileReader có 4 phương thức khởi tạo:
+
+- FileReader(String fileName): tạo một đối tượng FileReader để đọc các ký tự từ tệp với đường dẫn tệp là fileName.
+
+- FileReader(File file): tạo một đối tượng FileReader để đọc các ký tự từ tệp được xác định bởi đối tượng File file.
+
+- FileReader(FileDescriptor fd): tạo một đối tượng FileReader để đọc các ký tự từ một tệp được mô tả bởi đối tượng FileDescriptor fd.
+
+- FileReader(String fileName, Charset charset): tạo một đối tượng FileReader để đọc các ký tự từ tệp được xác định bởi đường dẫn tệp fileName và bộ mã charset được sử dụng để giải mã các ký tự trong tệp.
+
+Các yếu tố của các phương thức khởi tạo bao gồm:
+
+- Mục đích: Tạo một đối tượng FileReader để đọc các ký tự từ tệp.
+
+- Tham số đầu vào:
++ String fileName: đường dẫn tệp cần đọc.
++ File file: đối tượng File mô tả tệp cần đọc.
++ FileDescriptor fd: đối tượng FileDescriptor mô tả tệp cần đọc.
++ Charset charset: bộ mã sử dụng để giải mã các ký tự trong tệp.
